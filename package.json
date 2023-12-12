@@ -1,0 +1,24 @@
+{
+  "name": "readagexjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Test.ts",
+  "scripts": {
+    "start": "ts-node ./src/Test.ts",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/debug": "^4.1.12",
+    "@types/jest": "^29.5.11",
+    "@typescript-eslint/eslint-plugin": "^6.13.2",
+    "@typescript-eslint/parser": "^6.13.2",
+    "debug": "^4.3.4",
+    "eslint": "^8.55.0",
+    "ts-jest": "^29.1.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.2"
+  }
+}
