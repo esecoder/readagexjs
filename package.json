@@ -1,14 +1,16 @@
 {
   "name": "readagexjs",
   "version": "1.0.0",
-  "description": "",
-  "main": "Test.ts",
+  "description": "Human readable regular expressions.",
+  "main": "./src/RegExprBuilder.ts",
   "scripts": {
-    "start": "ts-node ./src/Test.ts",
+    "start": "ts-node ./src/RegExprBuilder.ts",
     "test": "jest"
   },
-  "keywords": [],
-  "author": "",
+  "test command": "jest",
+  "keywords": ["regex", "regular expressions", "human-readable", "javascript"],
+  "author": "Ese Udom",
+  "git repository": "https://github.com/EseCoder/readagexjs.git",
   "license": "ISC",
   "devDependencies": {
     "@types/debug": "^4.1.12",
