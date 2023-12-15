@@ -14,7 +14,7 @@
 [![release](https://img.shields.io/badge/coverage-100%25-lightgreen?style=flat-square)](https://github.com/esecoder/readagexjs/releases)
 
 
-Javascript port of `regexpbuilderPHP`
+Javascript/Typescript port of `regexpbuilderPHP`
 
 > RegExprBuilder integrates regular expressions into the programming language, thereby making them easy to read and maintain. Regular Expressions are created by using chained methods and variables such as arrays or strings.
 
